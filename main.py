@@ -10,7 +10,7 @@ DB_CONFIG = {
     "host": "aws-0-ap-southeast-1.pooler.supabase.com",
     "database": "postgres",
     "user": "postgres.oichgylkzbbvxgyxkldy", 
-    "password": "Bhanu@100403isthepassword",
+    "password": "Bhanu@100403",
     "port": 6543
 }
 
